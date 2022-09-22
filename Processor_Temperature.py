@@ -65,3 +65,6 @@ for temps in temperatures_C:
     fahrenheit.append(f)
 
 print(fahrenheit)
+
+# Taking the decission
+# After checking the information, we must give the order to change the cooling system to avoid the danger of damaging the equipment. There are more than 4 hours with temperatures greater than or equal to 70ºC.
